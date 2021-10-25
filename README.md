@@ -1,2 +1,0 @@
-# sertikomBNSP
-sertifikasi
